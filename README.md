@@ -1,7 +1,7 @@
 # Admin Dashboard
 ![Screen Shot 2023-03-11 at 6 57 28 PM](https://user-images.githubusercontent.com/22222231/224519963-a6ac998c-5194-433a-8fc2-07139fc65b5b.png)
 
-This is a responsive, mobile compatible, full stack Admin Dashboard application with the ability to navigate products, customers, transactions, user location geography, sales, admin management and more.
+Responsive, mobile compatible, full stack Admin Dashboard application with the ability to navigate products, customers, transactions, user location geography, sales, admin management and more.
 
 # Stack
 ![Mern-1](https://user-images.githubusercontent.com/22222231/224519858-07da5cef-d3d7-4e39-900f-6f2baff9b38c.jpeg)
