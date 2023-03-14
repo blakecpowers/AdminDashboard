@@ -6,7 +6,7 @@ Responsive, mobile compatible, full stack Admin Dashboard application with the a
 # Stack
 ![Mern-1](https://user-images.githubusercontent.com/22222231/224519858-07da5cef-d3d7-4e39-900f-6f2baff9b38c.jpeg)
 
-# Mongo Architecture
+# DB Architecture
 ![Screen Shot 2023-03-11 at 6 49 09 PM](https://user-images.githubusercontent.com/22222231/224519897-9f95320a-56c8-4e44-8e9e-fe7198ed3a97.png)
 
 # Admin Viewability
