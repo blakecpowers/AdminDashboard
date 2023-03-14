@@ -59,4 +59,4 @@ Light Mode - toggle between dark mode and light mode depending on preference.
 # Deployment
 ![Screen Shot 2023-03-11 at 6 49 38 PM](https://user-images.githubusercontent.com/22222231/224519900-e0abc13d-b749-40a8-be46-35127c831b9c.png)
 
-
+Deployment architecture is as follows. Our data is stored in our mongoDB database, which communicates with our server. This server and client are hosted on render. When you visit the deployed site, you're really just visiting the deployed client site. However, this communicates with our backend (also hosted on render). Render will communicate with github for us and refresh the deployment anytime a change is made to the main branch. Note: Environemnt variables and node modules are **not** pushed to github (gitignore). Env variables are set up on render.
