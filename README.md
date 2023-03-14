@@ -1,4 +1,4 @@
-# [Admin Dashboard](https://admindashboardfrontend-wa7b.onrender.com/dashboard)
+# [Admin Dashboard](https://admindashboardfrontend-wa7b.onrender.com)
 ![Screen Shot 2023-03-11 at 6 57 28 PM](https://user-images.githubusercontent.com/22222231/224519963-a6ac998c-5194-433a-8fc2-07139fc65b5b.png)
 
 Responsive, mobile compatible, full stack Admin Dashboard application with the ability to navigate products, customers, transactions, user location geography, sales, admin management and more.
