@@ -22,7 +22,7 @@ Recent Transactions
 
 ![Screen Shot 2023-03-11 at 7 01 01 PM](https://user-images.githubusercontent.com/22222231/224520071-8e1e4d8e-3004-4b14-bede-4e1f3fefdacd.png)
 
-View Map of User Geography
+View Map of User Geography - User data is quried from our MongoDB and a request is sent to [Nivo Rocks](https://nivo.rocks/choropleth) in order to get the geography map data (Choropleth chart). 
 
 ![Screen Shot 2023-03-11 at 7 01 29 PM](https://user-images.githubusercontent.com/22222231/224520089-3930c04a-3290-4412-b1c1-26d759deeb06.png)
 
